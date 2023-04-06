@@ -7,6 +7,7 @@ This application is a simple calculator app developed using the Visual Studio ap
 - Button to clear the inputs for the user to reset the calculator.
 - Result section that displays the results with up to 2 decimal points.
 - Exception handled: Divide by 0, Non-numeric numbers, Empty inputs.
+- Logic of the application: [Link to the file](https://github.com/rajnij06/Assignment/blob/main/BasicCalculator/BasicCalculator/Form1.cs) 
 
 #### Screenshot of the application
 ![image](https://user-images.githubusercontent.com/90524660/230284245-8f326872-1136-486f-81b3-332c5b4136ac.png)
