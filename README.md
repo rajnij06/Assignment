@@ -25,7 +25,7 @@ Application can be run on Visual Studio by loading the `BasicCalculator.sln` fil
 ### Installation (Running the project)
 Either of the following can load the project.
 1. Download / Clone the repo -> Go to Folder `Basic Calculator` -> Double click `BasicCalculator.sln`-> Click Build toolbar -> Start Debugging
-2. Download / Clone the repo -> Open the Visual Studio > Open a local folder -> Browse to project folder - Select Folder -> Click Build toolbar -> Start Debugging
+2. Download / Clone the repo -> Open the Visual Studio > Open a local folder -> Browse to project folder -> Select Folder -> Click Build toolbar -> Start Debugging
 
 ### Contact
 Rajni Jangir - rajnij06@gmail.com
